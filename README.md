@@ -76,7 +76,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Rishabh-mishra-1705/loan-approval.git
+git clone https://github.com/Rishabh-Mishra-1705/Loan_approval/blob/main/Loan_Approval.ipynb
 Navigate to the project directory:
 
 bash
