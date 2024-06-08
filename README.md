@@ -76,7 +76,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/rishabh-mishra-1705/loan-approval.git
+git clone https://github.com/Rishabh-mishra-1705/loan-approval.git
 Navigate to the project directory:
 
 bash
